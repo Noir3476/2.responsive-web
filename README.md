@@ -8,3 +8,4 @@ This is my first ever responsive website
 This project is created with :
 * Html
 * CSS
+* Javascript
